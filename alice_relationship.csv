@@ -1,0 +1,86 @@
+,source,target,value
+0,france,russia,11
+1,germany,russia,22
+2,germany,italy,28
+3,austria,germany,10
+4,france,spain,1
+5,france,poland,14
+6,france,germany,19
+7,germany,poland,23
+8,estonia,germany,5
+9,estonia,latvia,12
+10,latvia,lithuania,6
+11,lithuania,poland,6
+12,finland,poland,5
+13,finland,germany,4
+14,denmark,poland,5
+15,denmark,norway,6
+16,germany,norway,10
+17,germany,netherlands,5
+18,luxembourg,netherlands,6
+19,france,luxembourg,3
+20,france,italy,4
+21,greece,italy,5
+22,germany,greece,3
+23,libya,ukraine,2
+24,egypt,libya,16
+25,egypt,iraq,5
+26,iran,iraq,6
+27,germany,japan,17
+28,japan,russia,12
+29,algeria,morocco,6
+30,algeria,italy,5
+31,china,japan,25
+32,italy,japan,11
+33,japan,thailand,6
+34,singapore,thailand,6
+35,japan,singapore,4
+36,australia,japan,9
+37,japan,solomon islands,7
+38,india,japan,11
+39,china,france,6
+40,china,india,18
+41,india,pakistan,18
+42,israel,pakistan,6
+43,israel,north korea,6
+44,north korea,south africa,5
+45,israel,south africa,6
+46,israel,libya,5
+47,iran,libya,9
+48,germany,iran,1
+49,france,japan,3
+50,laos,pakistan,4
+51,cambodia,laos,6
+52,cambodia,vietnam,11
+53,kenya,vietnam,5
+54,ghana,kenya,6
+55,france,ghana,4
+56,latvia,poland,6
+57,estonia,lithuania,6
+58,finland,lithuania,6
+59,albania,finland,5
+60,albania,bulgaria,6
+61,bulgaria,poland,6
+62,poland,romania,6
+63,hungary,romania,6
+64,hungary,mongolia,4
+65,china,mongolia,6
+66,china,north korea,12
+67,cuba,north korea,6
+68,cuba,vietnam,10
+69,china,vietnam,5
+70,north korea,south korea,6
+71,canada,south korea,5
+72,australia,canada,6
+73,australia,vietnam,2
+74,cuba,united states,2
+75,canada,japan,6
+76,canada,china,3
+77,china,lithuania,4
+78,lithuania,russia,5
+79,rwanda,south africa,5
+80,north korea,rwanda,2
+81,finland,russia,6
+82,afghanistan,pakistan,6
+83,china,lebanon,1
+84,india,singapore,5
